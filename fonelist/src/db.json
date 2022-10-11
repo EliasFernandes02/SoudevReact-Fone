@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "nome": "Eadwd",
+      "telefone": "85 928391",
+      "cidade": "Mauriti",
+      "id": 5
+    },
+    {
+      "nome": "Elias",
+      "telefone": "294819491",
+      "cidade": "Quixeré",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
